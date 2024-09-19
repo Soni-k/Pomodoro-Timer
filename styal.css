@@ -61,12 +61,17 @@ button {
 
 #blue {
 	background-color: blue;
+	padding: 10px;
 }
 
 #red {
 	background-color: red;
+	padding: 10px;
+
 }
 
 #green {
 	background-color: green;
+	padding: 10px;
+
 }
